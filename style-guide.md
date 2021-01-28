@@ -1,41 +1,41 @@
-# Front-end Style Guide
+# Guía de estilo de front-end
 
-## Layout
+## Diseño
 
-The designs were created to the following widths:
+Los diseños se crearon con los siguientes anchos:
 
-- Mobile: 375px
-- Desktop: 1440px
+- Móvil: 375px
+- Escritorio: 1440px
 
-## Colors
+## Colores
 
-### Primary
+### Primario
 
-- White: hsl(0, 0%, 100%)
-- Black: hsl(0, 0%, 0%)
-- Dark Gray: hsl(0, 0%, 55%)
-- Very Dark Gray: hsl(0, 0%, 41%)
+- Blanco: hsl (0, 0%, 100%)
+- Negro: hsl (0, 0%, 0%)
+- Gris oscuro: hsl (0, 0%, 55%)
+- Gris muy oscuro: hsl (0, 0%, 41%)
 
 ### Neutral
 
-## Typography
+## Tipografía
 
-### Body Copy
+### Copia de cuerpo
 
-- Font size: 15px
+- Tamaño de fuente: 15px
 
-### Fonts
+### Fuentes
 
-- Family: [Alata](https://fonts.google.com/specimen/Alata)
-- Weight: 400
+- Familia: [Alata] (https://fonts.google.com/specimen/Alata)
+- Peso: 400
 
-- Family: [Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)
-- Weight: 300
+- Familia: [Josefin Sans] (https://fonts.google.com/specimen/Josefin+Sans)
+- Peso: 300
 
-## Icons
+## Iconos
 
-We provide the required social icons. But, if you prefer, you can use a font icon library. Some suggestions can be found below:
+Proporcionamos los iconos sociales necesarios. Pero, si lo prefiere, puede utilizar una biblioteca de iconos de fuentes. Algunas sugerencias se pueden encontrar a continuación:
 
-- [Font Awesome](https://fontawesome.com)
-- [IcoMoon](https://icomoon.io)
-- [Ionicons](https://ionicons.com)
+- [Font Awesome] (https://fontawesome.com)
+- [IcoMoon] (https://icomoon.io)
+- [Ionicons] (https://ionicons.com)
