@@ -6,7 +6,7 @@ http://neissermoreno.me/Frontend-Mentor-Loopstudios-Solution/
 
 ### Finished
 
-![GitHub Logo](/images/desafio.gif)
+![GitHub Logo](/images/Desafio.gif)
 
 
 Support me with a Ko-fi for the effort :heart:
