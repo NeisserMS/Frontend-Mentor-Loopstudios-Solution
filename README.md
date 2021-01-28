@@ -1,73 +1,74 @@
-# Frontend Mentor - Loopstudios landing page
+# Mentor de Frontend - Página de inicio de Loopstudios
 
-![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
+! [Vista previa del diseño para el desafío de codificación de la página de destino de Loopstudios] (./ design / desktop-preview.jpg)
 
-## Welcome! 👋
+## ¡Bienvenidos! 👋
 
-Thanks for checking out this front-end coding challenge.
+Gracias por comprobar este desafío de codificación de front-end.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
+Los desafíos de [Frontend Mentor] (https://www.frontendmentor.io) le permiten mejorar sus habilidades en un flujo de trabajo de la vida real.
 
-**To do this challenge, you need a good understanding of HTML and CSS and a basic understanding of JavaScript.**
+** Para hacer este desafío, necesita una buena comprensión de HTML y CSS y una comprensión básica de JavaScript. **
 
-## The challenge
+## El reto
 
-Your challenge is to build out this landing page and get it looking as close to the design as possible.
+Su desafío es crear esta página de destino y hacer que se parezca lo más posible al diseño.
 
-This challenge focuses mostly on HTML & CSS. There's a tiny bit of JS included for the mobile navigation toggle. But you could also choose to do this without JS!
+Este desafío se centra principalmente en HTML y CSS. Hay un poco de JS incluido para la palanca de navegación móvil. ¡Pero también puedes optar por hacer esto sin JS!
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Puede utilizar las herramientas que desee para completar el desafío. Entonces, si tienes algo que te gustaría practicar, no dudes en intentarlo.
 
-Your users should be able to:
+Sus usuarios deberían poder:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+- Ver el diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo
+- Ver estados de desplazamiento para todos los elementos interactivos en la página
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+¿Quieres apoyo en el desafío? [Únase a nuestra comunidad de Slack] (https://www.frontendmentor.io/slack) y haga preguntas en el canal ** # ayuda **.
 
-## Where to find everything
+## Dónde encontrar todo
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to.
+Su tarea es construir el proyecto con los diseños dentro de la carpeta `/ design`. Encontrará una versión móvil y de escritorio del diseño para trabajar.
 
-The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
+Los diseños están en formato estático JPG. Esto significa que tendrá que utilizar su mejor criterio para estilos como `font-size`,` padding` y `margin`. Esto debería ayudar a entrenar su ojo para percibir las diferencias en los espacios y tamaños.
 
-If you'd like the design files (we provide Sketch & Figma versions) in order to inspect the design in more detail you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+Si desea los archivos de diseño (proporcionamos versiones de Sketch y Figma) para inspeccionar el diseño con más detalle, puede [suscribirse como miembro PRO] (https://www.frontendmentor.io/pro).
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+Encontrará todos los recursos necesarios en la carpeta `/ images`. Los activos ya están optimizados.
 
-There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
+También hay un archivo `style-guide.md`, que contiene la información que necesita, como la paleta de colores y las fuentes.
 
-## Building your project
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+## Construyendo tu proyecto
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). This will make it easier to share your code with the community if you need some help. If you're not sure how to do this, [have a read through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a URL. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, but we recommend using [Vercel](https://bit.ly/fem-vercel). We've got more information about deploying your project with Vercel below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes that you could create to make reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+No dude en utilizar cualquier flujo de trabajo con el que se sienta cómodo. A continuación se muestra un proceso sugerido, pero no creo que deba seguir estos pasos:
 
-## Deploying your project
+1. Inicialice su proyecto como un repositorio público en [GitHub] (https://github.com/). Esto hará que sea más fácil compartir su código con la comunidad si necesita ayuda. Si no está seguro de cómo hacer esto, [lea este recurso Try Git] (https://try.github.io/).
+2. Configure su repositorio para publicar su código en una URL. Esto también será útil si necesita ayuda durante un desafío, ya que puede compartir la URL de su proyecto con la URL de su repositorio. Hay varias formas de hacer esto, pero recomendamos usar [Vercel] (https://bit.ly/fem-vercel). Tenemos más información sobre cómo implementar su proyecto con Vercel a continuación.
+3. Revise los diseños para comenzar a planificar cómo abordará el proyecto. Este paso es crucial para ayudarlo a pensar en las clases de CSS que podría crear para crear estilos reutilizables.
+4. Antes de agregar cualquier estilo, estructure su contenido con HTML. Escribir su HTML primero puede ayudarlo a centrar su atención en la creación de contenido bien estructurado.
+5. Escriba los estilos base para su proyecto, incluidos los estilos de contenido general, como `font-family` y` font-size`.
+6. Comience a agregar estilos en la parte superior de la página y continúe hacia abajo. Pase a la siguiente sección solo una vez que esté satisfecho de haber completado el área en la que está trabajando.
 
-As mentioned above, there are a number of ways to host your project for free. We recommend using [Vercel](https://bit.ly/fem-vercel) as it's an amazing service and extremely simple to get set up with. If you'd like to use Vercel, here are some steps to follow to get started:
+## Implementando su proyecto
 
-1. [Sign up to Vercel](https://bit.ly/fem-vercel-signup) and go through the onboarding flow, ensuring your GitHub account is connected by using their [Vercel for GitHub](https://vercel.com/docs/v2/git-integrations/vercel-for-github) integration.
-2. Connect your project to Vercel from the ["Import project" page](https://vercel.com/import), using the "From Git Repository" button and selecting the project you want to deploy.
-3. Once connected, every time you `git push`, Vercel will create a new [deployment](https://vercel.com/docs/v2/platform/deployments) and the deployment URL will be shown on your [Dashboard](https://vercel.com/dashboard). You will also receive an email for each deployment with the URL.
+Como se mencionó anteriormente, hay varias formas de alojar su proyecto de forma gratuita. Recomendamos usar [Vercel] (https://bit.ly/fem-vercel) ya que es un servicio asombroso y extremadamente simple de configurar. Si desea utilizar Vercel, aquí hay algunos pasos a seguir para comenzar:
 
-## Sharing your solution
+1. [Regístrese en Vercel] (https://bit.ly/fem-vercel-signup) y siga el flujo de incorporación, asegurándose de que su cuenta de GitHub esté conectada mediante su [Vercel para GitHub] (https: // vercel .com / docs / v2 / git-integrations / vercel-for-github) integración.
+2. Conecte su proyecto a Vercel desde la [página "Importar proyecto"] (https://vercel.com/import), usando el botón "Desde el repositorio Git" y seleccionando el proyecto que desea implementar.
+3. Una vez conectado, cada vez que "git push", Vercel creará una nueva [implementación] (https://vercel.com/docs/v2/platform/deployments) y la URL de implementación se mostrará en su [Panel de control] (https://vercel.com/dashboard). También recibirá un correo electrónico para cada implementación con la URL.
 
-There are multiple places you can share your solution:
+## Compartiendo tu solución
 
-1. Submit it on the platform so that other users will see your solution on the site. Here's our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) to help you do that.
-2. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack).
-3. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor** including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
+Hay varios lugares en los que puede compartir su solución:
 
-## Giving feedback
+1. Envíelo en la plataforma para que otros usuarios vean su solución en el sitio. Aquí está nuestra ["Guía completa para enviar soluciones"] (https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) para ayudarlo a hacerlo.
+2. Comparta la página de su solución en el canal ** # proyectos terminados ** de la [comunidad de Slack] (https://www.frontendmentor.io/slack).
+3. Envíe un tweet a [@frontendmentor] (https://twitter.com/frontendmentor) y mencione ** @ frontendmentor **, incluido el repositorio y las URL activas en el tweet. Nos encantaría echar un vistazo a lo que ha construido y ayudar a compartirlo.
 
-Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
+## Dar retroalimentación
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+Los comentarios son siempre bienvenidos, así que si tienes algo que dar sobre este desafío, envía un correo electrónico a hola [at] frontendmentor [dot] io.
 
-**Have fun building!** 🚀
+Este desafío es completamente gratuito. Compártelo con cualquier persona que lo encuentre útil para practicar.
+
+** ¡Diviértete construyendo! ** 🚀
